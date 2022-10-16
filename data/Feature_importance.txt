@@ -1,6 +1,10 @@
 Zero_onset
+
 Total Frames: 6000
-Acc: 0.964166
+Acc: 0.9883333333333333 XGBoost
+Acc: 0.964166 Random Forest
+Acc: 0.7425 Gradient Boosting
+
 
 m2_tail_base_y    0.097375
 m2_tail_base_x    0.091499
@@ -28,8 +32,11 @@ m1_forehead_x     0.022146
 m2_left_ear_x     0.021880
 
 Three_onset
+
 Total Frames: 7800
-Acc: 0.9711538461538461
+Acc: 0.9891025641025641 XGBoost 
+Acc: 0.9711538461538461 Random Forest
+Acc: 0.7378205128205129 Gradient Boosting
 
 m2_tail_base_x    0.107886
 m2_tail_base_y    0.080520
@@ -57,8 +64,11 @@ m1_left_ear_x     0.026531
 m1_forehead_y     0.025014
 
 Five_onset
+
 Total Frames: 9000
-Acc: 0.9788888888888889
+Acc: 0.9833333333333333 XGBoost
+Acc: 0.9788888888888889 Random Forest
+Acc: 0.7488888888888889 Gradient Boosting
 
 m2_tail_base_x    0.110300
 m1_tail_base_x    0.082985
@@ -86,8 +96,11 @@ m2_forehead_y     0.021328
 m1_forehead_y     0.019915
 
 Ten_onset
+
 Total Frames: 12000
-Acc: 0.9733333333333334
+Acc: 0.9883333333333333 XGBoost
+Acc: 0.9733333333333334 Random Forest
+Acc: 0.7033333333333334 Gradient Boosting
 
 m2_tail_base_x    0.095316
 m2_thorax_x       0.074951
@@ -115,8 +128,11 @@ m1_nose_y         0.023021
 m1_forehead_y     0.022388
 
 Fifteen_onset
+
 Total Frames: 15000
-Acc: 0.969
+Acc: 0.984 XGBoost
+Acc: 0.969 Random Forest
+Acc: 0.7013333333333334 Gradient Boosting
 
 m2_thorax_x       0.086389
 m2_tail_base_x    0.082499
